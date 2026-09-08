@@ -1,0 +1,7 @@
+h1{color: tomato;
+background-color: yellow;
+font-style: italic;
+background-image: -moz-element(flow);
+}
+h6{background-color: black;
+color: aqua;}
