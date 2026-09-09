@@ -1,7 +1,7 @@
-h1{color: tomato;
-background-color: yellow;
-font-style: italic;
+h1{color: blue;
+background-color: black;
+font-style: bold italic;
 background-image: -moz-element(flow);
 }
-h6{background-color: black;
+h5, h2{background-color: black;
 color: aqua;}
