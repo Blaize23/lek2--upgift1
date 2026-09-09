@@ -1,7 +1,5 @@
 h1{color: blue;
-background-color: black;
 font-style: bold italic;
 background-image: -moz-element(flow);
 }
-h5, h2{background-color: black;
-color: aqua;}
+h5, h2{color: aqua;}
